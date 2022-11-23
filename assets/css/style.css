@@ -4,10 +4,10 @@
     height: 200px;
     padding: 40px;
     font-size: 25px;
-    background-image: url(assets/imgs/4_header.jpg);
+    background-image: url(/assets/imgs/4_header.jpg);
     background-size: cover;
     background-position: center;
-    color: rgb(155, 214, 203);
+    color: rgb(155, 214, 203);   
     line-height: 0.5px;
     border-bottom: 15px solid black;
     -webkit-text-stroke: 0.8px black;
