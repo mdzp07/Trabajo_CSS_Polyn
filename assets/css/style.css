@@ -4,7 +4,7 @@
     height: 200px;
     padding: 40px;
     font-size: 25px;
-    background-image: url(/assets/imgs/4_header.jpg);
+    background-image: url(.../assets/imgs/4_header.jpg);
     background-size: cover;
     background-position: center;
     color: rgb(155, 214, 203);   
